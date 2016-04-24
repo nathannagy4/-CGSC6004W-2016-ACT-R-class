@@ -1,4 +1,4 @@
-__author__ = 'Robert'
+
 import sys
 
 sys.path.append('/Users/robertwest/CCMSuite')
